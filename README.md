@@ -1,4 +1,4 @@
-# QuantumChemistrySimulations
+# quantum-computing-for-quantum-chemistry
 
 This repo serves as a container for everything done during my master's thesis specialization project.
 
